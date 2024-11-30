@@ -2,7 +2,7 @@
 
 A simple React-based Todo App that helps you manage and organize tasks efficiently. You can add, edit, delete, and mark tasks as completed.
 
-![Screenshot of the Todo App](./Screenshot%202024-12-01%20at%205.06.31%20AM.png)
+![Screenshot of the Todo App](./ss.png)
 ## Features
 
 - ****Add a Task****: Quickly add a new task with a simple input form.
